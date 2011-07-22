@@ -1,3 +1,4 @@
-Project Euler problems solved Edouard Swiac using :
+**Project Euler** problems solved Edouard Swiac using :
+
 * Python
-* (Scala)
+* Scala
